@@ -1,4 +1,4 @@
-    package com.endicott.csc.serverside.backend;
+package com.endicott.csc.serverside.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
