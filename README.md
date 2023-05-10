@@ -6,6 +6,10 @@ Build Instructions:
 
 mvn package 
 
+Run Instructions:
+
+java -jar target/backend-0.0.1-SNAPSHOT.jar 
+
 APIs Used:
  - Steam All Apps API
  - Steam App Details API
